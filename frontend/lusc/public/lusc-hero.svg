@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="382" height="382" viewBox="0 0 382 382">
+  <g id="LUSC_Hero" data-name="LUSC Hero" transform="translate(-769 -349)">
+    <text id="LU" transform="translate(829 539)" fill="#198754" font-size="100" font-family="'\.AppleSystemUIFont'" font-weight="700"><tspan x="0" y="0">LU</tspan></text>
+    <text id="SC" transform="translate(968 612)" fill="#e5a638" font-size="100" font-family="'\.AppleSystemUIFont'" font-weight="700"><tspan x="0" y="0">SC</tspan></text>
+    <line id="Line_1" data-name="Line 1" y1="204" transform="translate(960 438)" fill="none" stroke="#e5a638" stroke-linecap="round" stroke-width="7"/>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(769 349)" fill="none" stroke="#408558" stroke-width="10">
+      <circle cx="191" cy="191" r="191" stroke="none"/>
+      <circle cx="191" cy="191" r="186" fill="none"/>
+    </g>
+  </g>
+</svg>

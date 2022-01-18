@@ -1,0 +1,21 @@
+<svg width="100%" height="100%" viewBox="0 0 834 834" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Logo" x="0" y="0" width="833.333" height="833.333" style="fill:none;"/>
+    <g id="Logo1" serif:id="Logo">
+        <path d="M196.878,291.076l-21.932,0l-0,-19.907l487.938,-0l-0,19.907l-25.918,0l-0,407.663l24.811,19.364l0.093,48.172l0,-13.37c0,0 4.243,0.233 6.979,1.905c2.414,1.475 3.349,4.285 3.528,5.98c0.489,4.626 0.16,22.618 0.16,22.618l-10.667,-0.003l-24.945,0l0,-0.008l-440.013,-0l0,0.008l-24.801,0l-10.667,0.003c-0,0 -0.329,-17.992 0.16,-22.618c0.18,-1.695 1.114,-4.505 3.528,-5.98c2.467,-1.508 6.158,-1.845 6.861,-1.897l0.067,-34.81l24.818,-19.369l-0,-407.658Zm402.79,0l0,411.351l-363.946,0l0,-411.351l363.946,0Zm-183.001,-241.151l289.474,157.885l-578.949,-0l289.475,-157.885Z"/>
+        <g transform="matrix(1,0,0,0.816804,0,-3.35251)">
+            <text x="326.669px" y="945.332px" style="font-family:'AppleSymbols', 'Apple Symbols';font-size:119.259px;fill:#fff;">GHM</text>
+        </g>
+        <g id="Colour-Bars" serif:id="Colour Bars">
+            <rect x="235.722" y="291.076" width="52.29" height="411.351" style="fill:#ab34f0;"/>
+            <rect x="288.013" y="291.076" width="52.29" height="411.351" style="fill:#f6ff00;"/>
+            <rect x="340.303" y="291.076" width="52.29" height="411.351" style="fill:#52d51e;"/>
+            <rect x="390.608" y="291.076" width="52.29" height="411.351" style="fill:#fff;"/>
+            <rect x="442.898" y="291.076" width="52.29" height="411.351" style="fill:#b00606;"/>
+            <rect x="495.189" y="291.076" width="52.29" height="411.351" style="fill:#fa0295;"/>
+            <rect x="547.479" y="291.076" width="52.29" height="411.351" style="fill:#00f;"/>
+        </g>
+        <g transform="matrix(1,0,0,0.93871,1.13687e-13,-23.5078)">
+            <text x="165.83px" y="297.896px" style="font-family:'Baskerville', serif;font-size:62.142px;">Gilg<tspan x="273.911px 303.04px " y="297.896px 297.896px ">al</tspan> House Media</text>
+        </g>
+    </g>
+</svg>
